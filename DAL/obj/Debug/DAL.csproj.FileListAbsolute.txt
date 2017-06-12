@@ -1,0 +1,11 @@
+E:\Git\Code\DAL\bin\Debug\DAL.dll
+E:\Git\Code\DAL\bin\Debug\DAL.pdb
+E:\Git\Code\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Git\Code\DAL\obj\Debug\DAL.dll
+E:\Git\Code\DAL\obj\Debug\DAL.pdb
+E:\Git\Code\DAL\bin\Debug\Commons.dll
+E:\Git\Code\DAL\bin\Debug\DBUtility.dll
+E:\Git\Code\DAL\bin\Debug\Models.dll
+E:\Git\Code\DAL\bin\Debug\Commons.pdb
+E:\Git\Code\DAL\bin\Debug\DBUtility.pdb
+E:\Git\Code\DAL\bin\Debug\Models.pdb

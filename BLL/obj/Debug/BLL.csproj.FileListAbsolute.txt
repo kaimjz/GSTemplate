@@ -1,0 +1,13 @@
+E:\Git\Code\BLL\bin\Debug\BLL.dll
+E:\Git\Code\BLL\bin\Debug\BLL.pdb
+E:\Git\Code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Git\Code\BLL\obj\Debug\BLL.dll
+E:\Git\Code\BLL\obj\Debug\BLL.pdb
+E:\Git\Code\BLL\bin\Debug\Commons.dll
+E:\Git\Code\BLL\bin\Debug\DAL.dll
+E:\Git\Code\BLL\bin\Debug\Models.dll
+E:\Git\Code\BLL\bin\Debug\DBUtility.dll
+E:\Git\Code\BLL\bin\Debug\Commons.pdb
+E:\Git\Code\BLL\bin\Debug\DAL.pdb
+E:\Git\Code\BLL\bin\Debug\Models.pdb
+E:\Git\Code\BLL\bin\Debug\DBUtility.pdb

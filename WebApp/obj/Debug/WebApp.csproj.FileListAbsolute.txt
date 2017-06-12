@@ -1,0 +1,16 @@
+E:\Git\Code\WebApp\bin\WebApp.dll.config
+E:\Git\Code\WebApp\bin\WebApp.dll
+E:\Git\Code\WebApp\bin\WebApp.pdb
+E:\Git\Code\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Git\Code\WebApp\obj\Debug\WebApp.dll
+E:\Git\Code\WebApp\obj\Debug\WebApp.pdb
+E:\Git\Code\WebApp\bin\BLL.dll
+E:\Git\Code\WebApp\bin\Commons.dll
+E:\Git\Code\WebApp\bin\Models.dll
+E:\Git\Code\WebApp\bin\DAL.dll
+E:\Git\Code\WebApp\bin\DBUtility.dll
+E:\Git\Code\WebApp\bin\BLL.pdb
+E:\Git\Code\WebApp\bin\Commons.pdb
+E:\Git\Code\WebApp\bin\Models.pdb
+E:\Git\Code\WebApp\bin\DAL.pdb
+E:\Git\Code\WebApp\bin\DBUtility.pdb
